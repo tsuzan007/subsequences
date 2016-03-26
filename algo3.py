@@ -11,11 +11,7 @@ Programming Project 3
 
 
 
-"""
-Pre: Two lists are passed to the function.
-Post: LCS table is displayed, a multidimensional array is populated from the
-		the value of two lists.
-"""
+
 
 def lcs(string1List,string2List,stringList):
 	#for loop to populate the multidimensional array or the LCS table
